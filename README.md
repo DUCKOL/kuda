@@ -71,7 +71,7 @@ Navigate to the web frontend directory, install dependencies, and start the deve
 cd kuai-da-ai-webapp
 npm install
 npm run dev
-```bash
+```
 
 ---
 ### Step 3. Desktop Client Setup
@@ -81,7 +81,7 @@ Navigate to the desktop client directory, install dependencies, and start the ap
 cd kuai-da-ai-desktop
 pnpm install
 pnpm run dev
-```bash
+```
 cd kuai-da-ai-backend
 npm installStep
 
