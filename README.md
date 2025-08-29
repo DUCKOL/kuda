@@ -82,16 +82,18 @@ cd kuai-da-ai-desktop
 pnpm install
 pnpm run dev
 ```
-cd kuai-da-ai-backend
-npm installStep
 
 ---
-### Usage
-Start Services: Ensure the backend, web frontend, and desktop client are all running.
-Register & Login: Use the web frontend to register a new account and log in.
-Login on Desktop: Log in to the desktop client using the same account credentials.
-Capture Content:
-Copy text to your clipboard (Ctrl+C).
-Or, take a screenshot using the hotkey (Ctrl+Alt+S).
-View Answers: Answers will appear on the web frontend within 1–3 seconds.
-Switch Models: Press Alt+Z at any time to switch the AI model.
+
+## 📖 Usage
+
+1.  **Start Services**: Ensure the backend, web frontend, and desktop client are all running.
+2.  **Register & Login**: Use the web frontend to register a new account and log in.
+3.  **Login on Desktop**: Log in to the desktop client using the same account credentials.
+4.  **Capture Content**:
+    -   Copy text to your clipboard (`Ctrl+C`).
+    -   Or, take a screenshot using the hotkey (`Ctrl+Alt+S`).
+5.  **View Answers**: Answers will appear on the web frontend within 1–3 seconds.
+6.  **Switch Models**: Press `Alt+Z` at any time to switch the AI model.
+
+---
